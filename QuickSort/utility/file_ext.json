@@ -1,0 +1,45 @@
+{
+    ".pdf": "PDF",
+
+    ".doc": "Documents",
+    ".docx": "Documents",
+    ".ppt": "Documents",
+    ".pptx": "Documents",
+    ".xls": "Documents",
+    ".xlsx": "Documents",
+
+    ".jpg": "./OKAY/Images",
+    ".jpeg": "./OKAY/Images",
+    ".png": "./OKAY/Images",
+    ".gif": "./OKAY/Images",
+    ".bmp": "./OKAY/Images",
+
+    ".mp3": "Musics",
+    ".wav": "Musics",
+    ".wma": "Musics",
+    ".m4a": "Musics",
+
+    ".mp4": "./OKAY/Videos",
+    ".mkv": "./OKAY/Videos",
+    ".flv": "./OKAY/Videos",
+    ".avi": "./OKAY/Videos",
+    ".mov": "./OKAY/Videos",
+
+    ".zip": "Archives",
+    ".rar": "Archives",
+    ".7z": "Archives",
+    ".gz": "Archives",
+    ".tar": "Archives",
+
+    ".exe" : "Programs Files",
+    ".msi" : "Programs Files",
+
+    ".py" : "Scripts",
+    ".js" : "Scripts",
+    ".cpp" : "Scripts",
+    ".c" : "Scripts",
+    ".java" : "Scripts",
+    ".html" : "Scripts",
+    ".css" : "Scripts",
+    ".sh" : "Scripts"
+}
